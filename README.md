@@ -1,2 +1,0 @@
-# FullLanding
- Landing training
